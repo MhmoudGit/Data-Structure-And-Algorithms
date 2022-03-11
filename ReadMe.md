@@ -5,4 +5,4 @@ A pailndrome Checker made in 2 different ways and learning how to make a homemad
 maybe thats how arrays work in JS
 
 ## Second Project 
-....On Going
+Learning how to make a homemade Sets 😃
