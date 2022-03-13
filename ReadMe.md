@@ -6,3 +6,6 @@ maybe thats how arrays work in JS
 
 ## Second Project 
 Learning how to make a homemade Sets 😃
+
+### Third one 
+Learning how to make a homemade Queue 😃
